@@ -1,0 +1,5 @@
+Concurrent server
+(A) Develop a client and a server program using socket interface as follows: client sends a “hello”
+message and wait till “ACK” is received. Server prints the “hello” message and sends an ACK.
+(B) Modify the program of (A) such that the client will block after sending five “hello” messages.
+The window slides by one unit after receiving each ACK.
